@@ -1,0 +1,33 @@
+{
+  "name": "acces-ip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SazumiVicky/acces-ip.git"
+  },
+  "keywords": [
+    "sazumiviki",
+    "makemeow",
+    "ayaka",
+    "ayakabot",
+    "bot-whatsapp",
+    "sazumi",
+    "ip-addres",
+    "nodejs"
+  ],
+  "author": "Sazumi Viki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SazumiVicky/acces-ip/issues"
+  },
+  "homepage": "https://github.com/SazumiVicky/acces-ip#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}
